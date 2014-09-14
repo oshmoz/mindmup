@@ -5,7 +5,13 @@
   "ideas": {
     "1": {
       "title": "test2",
-      "id": 2
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Test5",
+          "id": 4
+        }
+      }
     },
     "11": {
       "title": "Test3",
